@@ -1,7 +1,3 @@
-conteo-binario-
-===============
-
-Codigo que aumenta un conteo binairo, con interrupciones externas...
 #include <avr/io.h>
 #include <avr/interrupt.h>
 int main(void)
